@@ -1,0 +1,213 @@
+# depslib dependency file v1.0
+1621963542 source:c:\users\asus\desktop\c programming\repertoire telephonique\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"fichiers/headers/variables.h"
+	"fichiers/headers/menus.h"
+	"fichiers/headers/ajout_fenetre.h"
+	"fichiers/headers/affichage.h"
+	"fichiers/headers/supprimer_fenetre.h"
+	"fichiers/headers/enreg&recup.h"
+	"fichiers/headers/suppression_numero_fenetre.h"
+	"fichiers/headers/suppression_ville_donnee.h"
+	"fichiers/headers/suppression_indicatif_fenetre.h"
+	"fichiers/headers/recherche_numero.h"
+	"fichiers/headers/recherche_numero_affichage.h"
+	"fichiers/headers/recherche_ville.h"
+	"fichiers/headers/recherche_ville_affichage.h"
+	"fichiers/headers/recherche_nom.h"
+	"fichiers/headers/recherche_nom_affichage.h"
+	"fichiers/headers/recherche_indicatif.h"
+	"fichiers/headers/recherche_indicatif_affichage.h"
+	"fichiers/headers/modifier.h"
+
+1621960659 c:\users\asus\desktop\c programming\repertoire telephonique\fichiers\headers\variables.h
+
+1621567385 c:\users\asus\desktop\c programming\repertoire telephonique\fichiers\headers\menus.h
+	"../fichiers_c/menus.c"
+
+1621960872 c:\users\asus\desktop\c programming\repertoire telephonique\fichiers\fichiers_c\menus.c
+	<windows.h>
+	"../headers/variables.h"
+
+1621570154 c:\users\asus\desktop\c programming\repertoire telephonique\fichiers\headers\ajout_fenetre.h
+	"../fichiers_c/ajout_fenetre.c"
+
+1621940733 c:\users\asus\desktop\c programming\repertoire telephonique\fichiers\fichiers_c\ajout_fenetre.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../headers/variables.h"
+	"../headers/fonctions.h"
+
+1621619885 c:\users\asus\desktop\c programming\repertoire telephonique\fichiers\headers\fonctions.h
+	"../fichiers_c/fonctions.c"
+
+1622021703 c:\users\asus\desktop\c programming\repertoire telephonique\fichiers\fichiers_c\fonctions.c
+	<windows.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"../headers/variables.h"
+
+1621570206 c:\users\asus\desktop\c programming\repertoire telephonique\fichiers\headers\ajout_position_fenetre.h
+	"../fichiers_c/ajout_position_fenetre.c"
+
+1621570441 c:\users\asus\desktop\c programming\repertoire telephonique\fichiers\fichiers_c\ajout_position_fenetre.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../headers/variables.h"
+	"../headers/fonctions.h"
+	"../headers/ajout_fenetre.h"
+
+1621572970 c:\users\asus\desktop\c programming\repertoire telephonique\fichiers\headers\affichage.h
+	"../fichiers_c/affichage.c"
+
+1622017961 c:\users\asus\desktop\c programming\repertoire telephonique\fichiers\fichiers_c\affichage.c
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+	<commctrl.h>
+	"../headers/variables.h"
+	"../headers/fonctions.h"
+
+1621573835 c:\users\asus\desktop\c programming\repertoire telephonique\fichiers\headers\supprimer_fenetre.h
+	"../fichiers_c/supprimer_fenetre.c"
+
+1621941985 c:\users\asus\desktop\c programming\repertoire telephonique\fichiers\fichiers_c\supprimer_fenetre.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../headers/variables.h"
+	"../headers/fonctions.h"
+
+1621576427 c:\users\asus\desktop\c programming\repertoire telephonique\fichiers\headers\enreg&recup.h
+	"../fichiers_c/enreg&recup.c"
+
+1621576662 c:\users\asus\desktop\c programming\repertoire telephonique\fichiers\fichiers_c\enreg&recup.c
+	<string.h>
+	<math.h>
+
+1621581530 c:\users\asus\desktop\c programming\repertoire telephonique\fichiers\headers\suppression_numero_fenetre.h
+	"../fichiers_c/suppression_numero_fenetre.c"
+
+1621943128 c:\users\asus\desktop\c programming\repertoire telephonique\fichiers\fichiers_c\suppression_numero_fenetre.c
+	<windows.h>
+	"../headers/variables.h"
+
+1621582045 c:\users\asus\desktop\c programming\repertoire telephonique\fichiers\headers\suppression_ville_donnee.h
+	"../fichiers_c/suppression_ville_donnee.c"
+
+1621943357 c:\users\asus\desktop\c programming\repertoire telephonique\fichiers\fichiers_c\suppression_ville_donnee.c
+	<windows.h>
+	"../headers/variables.h"
+
+1621597173 c:\users\asus\desktop\c programming\repertoire telephonique\fichiers\headers\suppression_indicatif_fenetre.h
+	"../fichiers_c/suppression_indicatif_donne.c"
+
+1621943136 c:\users\asus\desktop\c programming\repertoire telephonique\fichiers\fichiers_c\suppression_indicatif_donne.c
+	<windows.h>
+	"../headers/variables.h"
+
+1621598432 c:\users\asus\desktop\c programming\repertoire telephonique\fichiers\headers\recherche_numero.h
+	"../fichiers_c/recherche_numero.c"
+
+1621959556 c:\users\asus\desktop\c programming\repertoire telephonique\fichiers\fichiers_c\recherche_numero.c
+	<windows.h>
+	"../headers/variables.h"
+	"../headers/recherche_numero_affichage.h"
+
+1621598319 c:\users\asus\desktop\c programming\repertoire telephonique\fichiers\headers\recherche_numero_affichage.h
+	"../fichiers_c/recherche_numero_affichage.c"
+
+1621598548 c:\users\asus\desktop\c programming\repertoire telephonique\fichiers\fichiers_c\recherche_numero_affichage.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../headers/variables.h"
+	"../headers/fonctions.h"
+	"../headers/recherche_numero.h"
+
+1621598946 c:\users\asus\desktop\c programming\repertoire telephonique\fichiers\headers\recherche_ville.h
+	"../fichiers_c/recherche_ville.c"
+
+1621959540 c:\users\asus\desktop\c programming\repertoire telephonique\fichiers\fichiers_c\recherche_ville.c
+	<windows.h>
+	"../headers/variables.h"
+	"../headers/recherche_ville_affichage.h"
+
+1621599618 c:\users\asus\desktop\c programming\repertoire telephonique\fichiers\headers\recherche_ville_affichage.h
+	"../fichiers_c/recherche_ville_affichage.c"
+
+1621599859 c:\users\asus\desktop\c programming\repertoire telephonique\fichiers\fichiers_c\recherche_ville_affichage.c
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+	<commctrl.h>
+	"../headers/variables.h"
+	"../headers/fonctions.h"
+
+1621612534 c:\users\asus\desktop\c programming\repertoire telephonique\fichiers\headers\recherche_nom.h
+	"../fichiers_c/recherche_nom.c"
+
+1621959620 c:\users\asus\desktop\c programming\repertoire telephonique\fichiers\fichiers_c\recherche_nom.c
+	<windows.h>
+	"../headers/variables.h"
+	"../headers/recherche_nom_affichage.h"
+
+1621612974 c:\users\asus\desktop\c programming\repertoire telephonique\fichiers\headers\recherche_nom_affichage.h
+	"../fichiers_c/recherche_nom_affichage.c"
+
+1621613097 c:\users\asus\desktop\c programming\repertoire telephonique\fichiers\fichiers_c\recherche_nom_affichage.c
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+	<commctrl.h>
+	"../headers/variables.h"
+	"../headers/fonctions.h"
+
+1621615078 c:\users\asus\desktop\c programming\repertoire telephonique\fichiers\headers\recherche_indicatif.h
+	"../fichiers_c/recherche_indicatif.c"
+
+1621958980 c:\users\asus\desktop\c programming\repertoire telephonique\fichiers\fichiers_c\recherche_indicatif.c
+	<windows.h>
+	"../headers/variables.h"
+	"../headers/recherche_indicatif_affichage.h"
+
+1621615645 c:\users\asus\desktop\c programming\repertoire telephonique\fichiers\headers\recherche_indicatif_affichage.h
+	"../fichiers_c/recherche_indicatif_affichage.c"
+
+1621615897 c:\users\asus\desktop\c programming\repertoire telephonique\fichiers\fichiers_c\recherche_indicatif_affichage.c
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+	<commctrl.h>
+	"../headers/variables.h"
+	"../headers/fonctions.h"
+
+1621916234 c:\users\asus\desktop\c programming\repertoire telephonique\fichiers\headers\modifier.h
+	"../fichiers_c/modifier.c"
+
+1621964743 c:\users\asus\desktop\c programming\repertoire telephonique\fichiers\fichiers_c\modifier.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../headers/variables.h"
+	"../headers/fonctions.h"
+
+1621662331 c:\users\asus\desktop\c programming\repertoire telephonique\fichiers\headers\modifier_affichage.h
+	"../fichiers_c/modifier_affichage.c"
+
+1621662838 c:\users\asus\desktop\c programming\repertoire telephonique\fichiers\fichiers_c\modifier_affichage.c
+	<string.h>
+	"../headers/variables.h"
+	"../headers/fonctions.h"
+

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="repertoire telephonique" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/repertoire telephonique" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/repertoire telephonique" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="fichiers/fichiers_c/affichage.c">
+			<Option compilerVar="CC" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="fichiers/fichiers_c/ajout_fenetre.c">
+			<Option compilerVar="CC" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="fichiers/fichiers_c/enreg&amp;recup.c">
+			<Option compilerVar="CC" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="fichiers/fichiers_c/fonctions.c">
+			<Option compilerVar="CC" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="fichiers/fichiers_c/menus.c">
+			<Option compilerVar="CC" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="fichiers/fichiers_c/modifier.c">
+			<Option compilerVar="CC" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="fichiers/fichiers_c/recherche_numero.c">
+			<Option compilerVar="CC" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="fichiers/fichiers_c/recherche_numero_affichage.c">
+			<Option compilerVar="CC" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="fichiers/fichiers_c/recherche_ville.c">
+			<Option compilerVar="CC" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="fichiers/fichiers_c/recherche_ville_affichage.c">
+			<Option compilerVar="CC" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="fichiers/fichiers_c/suppression_indicatif_donne.c">
+			<Option compilerVar="CC" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="fichiers/fichiers_c/suppression_numero_fenetre.c">
+			<Option compilerVar="CC" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="fichiers/fichiers_c/suppression_ville_donnee.c">
+			<Option compilerVar="CC" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="fichiers/fichiers_c/supprimer_fenetre.c">
+			<Option compilerVar="CC" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="fichiers/headers/affichage.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="fichiers/headers/ajout_fenetre.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="fichiers/headers/enregarecup.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="fichiers/headers/fonctions.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="fichiers/headers/menus.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="fichiers/headers/modifier.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="fichiers/headers/recherche_numero.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="fichiers/headers/recherche_numero_affichage.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="fichiers/headers/recherche_ville.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="fichiers/headers/recherche_ville_affichage.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="fichiers/headers/suppression_indicatif_fenetre.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="fichiers/headers/suppression_numero_fenetre.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="fichiers/headers/suppression_ville_donnee.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="fichiers/headers/variables.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
